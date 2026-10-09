@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WexoraAI Builder
 
 An AI-powered full-stack application builder that helps users turn natural-language prompts into React applications, preview generated code, and iteratively improve their projects with AI assistance.
@@ -65,3 +66,7 @@ Add and test useful AI-assisted development features
 Strengthen error handling and configuration validation
 
 Document setup, architecture, and testing
+=======
+# wexoraai-builder
+An AI-powered full-stack app builder that transforms natural-language prompts into React applications with live previews, AI-assisted code editing, and project management using Next.js, Gemini AI, Supabase, and Cline SDK.
+>>>>>>> 762c1e52b54c94d12754b14dfea1b68902b8edcc
